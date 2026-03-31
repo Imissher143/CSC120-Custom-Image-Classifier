@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1qWRfwrAkRGwY1DyItX0mTxAXM5JxtdGY?usp=dri
 ## 1. Dataset Preparation
 
 **Q1: How did you organize your dataset in Google Drive?**  
-I structured the data by creating a folder named `Image_Dataset`, and then inside this folder, I created different folders representing different classes or categories. Each folder contains images related to a specific object or plant.
+I structured the data by creating a folder named `image_dataset`, and then inside this folder, I created different folders representing different classes or categories. Each folder contains images related to a specific object or plant.
 
 **Q2: Why is folder structure important for TensorFlow image loading?**  
 The names of the folders are used to label the images. TensorFlow can automatically detect the category of the images based on the folder names.
