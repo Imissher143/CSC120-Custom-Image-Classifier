@@ -28,7 +28,7 @@ The training data is used to train the model, while the validation data is used 
 ## 3. Performance Analysis
 
 **Q1: What accuracy did your model achieve?**  
-The model accuracy achieved is **0.6140**.
+The model accuracy achieved is ** 0.5880**.
 
 **Q2: How did the number of images affect the model’s performance?**  
 Less number of images might not allow the model to learn all possible patterns, while more images will help the model perform better.
